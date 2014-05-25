@@ -1,0 +1,24 @@
+{
+  "name": "Mi9FrontEndTest",
+  "version": "0.0.0",
+  "description": "Technical assessment for a front-end job opportunity at Mi9 (Australia)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Yojimb0/Mi9FrontEndTest.git"
+  },
+  "author": "Pierre-Yves Pointereau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yojimb0/Mi9FrontEndTest/issues"
+  },
+  "homepage": "https://github.com/Yojimb0/Mi9FrontEndTest",
+  "dependencies": {
+    "express": "~4.3.1",
+    "logfmt": "~1.1.2",
+    "body-parser": "~1.2.0"
+  }
+}
